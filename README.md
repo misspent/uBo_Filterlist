@@ -123,7 +123,6 @@ https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.txt
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
@@ -132,9 +131,7 @@ ttps://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/l
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/AnnoyancesList
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
@@ -179,11 +176,10 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTu
 📱 **Mobile Phone lists**:
 ```
 https://badblock.celenity.dev/abp/android_whitelist.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt
 https://raw.githubusercontent.com/misspent/uBlock-Origin-Information/refs/heads/main/uBo%20Filter%20list
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ```
 [Main - Subscriptions | uBlacklist](<https://iorate.github.io/ublacklist/subscriptions>)  
 [Super-SEO-Spam-Suppressor](<https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor>)  
