@@ -4,10 +4,7 @@
 ! Homepage: https://github.com/misspent/Random-Stuff
 
 ! 🌐 EVERYTHING Square (Global)
-div:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
-img:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
-input:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
-textarea:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
 
 
 ! Brave Search Engine - Cleaner
