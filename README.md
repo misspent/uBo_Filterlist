@@ -176,6 +176,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTu
 📱 **Mobile Phone lists**:
 ```
 https://badblock.celenity.dev/abp/android_whitelist.txt
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt
 https://raw.githubusercontent.com/misspent/uBlock-Origin-Information/refs/heads/main/uBo%20Filter%20list
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
@@ -186,6 +187,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 [SpamdexingSites](<https://github.com/elliotwutingfeng/SpamdexingSites>)  
 [EasyList - Overview](<https://easylist.to/>)  
 [Motherload of lists](<https://github.com/knapah/uBlockOrigin-Filterlist>)
+⭐ [Filterlists: Collection of blocklists to fill in the gaps](https://github.com/yokoffing/filterlists?tab=readme-ov-file#ads)
 ⭐ [Energized Protection - block](<https://github.com/EnergizedProtection/block>)  
 **Badblock** support whitelist for following:
 ```
