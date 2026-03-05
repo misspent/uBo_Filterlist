@@ -1,0 +1,272 @@
+[Misspent Website Cleaner 1.0]
+! Title: 🧹 Misspent: Website Cleaner
+! Description: Removes: Ads, promotions, Related, you may also like & footers
+! Homepage: https://github.com/misspent/uBo_Filterlist
+! Syntax: AdBlock
+
+! 💲 Ads / Promotion
+*##ad-slot
+*##[class*="GamAds"]
+*##[class*="cmt-ads"]
+*##[class*="adbreak"]
+*##[class="adthrive"]
+*##[cookie-list-type]
+*##[data-freestar-ad]
+*##[id^="ad_browse_"]
+*##[id^="accontainer"]
+*##ins[data-ad-client]
+*##footer[jscontroller]
+*##[data-type="advert"]
+*##[class*="adContainer"]
+*##[class*="ad-position"]
+*##[class*="adthrive-ad"]
+*##[class*="fixed-size-ad"]
+*##shreddit-comment-tree-ad
+*##shreddit-comments-page-ad
+*##[class^="gas_fallback-ad"]
+*##[data-perf="advert-banner"]
+*##[data-ad-type="med_rect_atf"]
+*##[data-ad-type="med_rect_btf"]
+*##[data-component="in-body-ad"]
+*##[data-ad-type="leaderboard_atf"]
+*##[data-whitelist-status="all_ads"]
+*##[id*="ad-right"].block-fusion-ads
+*##[class*="id_ad_content-horiz-center"]
+*##faceplate-tracker[noun="games_drawer"]
+*##[data-testid="adslot-articlerectangle"]
+*##div[data-component="advertisement-block"]
+*##[data-testid="commercial-above-header-box-1"]
+*##[class*="limited-time-offer"][data-type="popup"]
+*##[class*="o-ad o-ad--prestitial__new js-ad--prestitial"]
+*##.e__b:has([data-ad-type])
+*##.adcon
+*##.ad-spin
+*##.header-ad
+*##.ad-wrapper
+*##.ad-fetching
+*##.page-top-ads
+*##.mar-block-ad
+*##.block-ad-lazy
+*##.viewer_ad_area
+*##.o-ad.is-sticky
+*##.third-party-ad
+*###ad-top-wrapper
+*##.leaderboard.gpt
+*##.ad--placeholder
+*###sticky-footer-ad
+*##blockquote.paywall
+*###chapter-above-ads
+*###ad-bottom-wrapper
+*##.inline-article-ad
+*###chapter-below-ads
+*##.ad.ad--leaderboard
+*##.sky--ad__container
+*##.post > .content-ad
+*###page > .remove-ads
+*##.js-cet-unit-top-ad
+*##.article-ads-wrapper
+*##.RC-AD.RC-AD-BOX-TOP
+*###div-gpt-ad-top-slot
+*##.sticky-ad-container
+*##.ws-ad-new-container
+*##div.inline-article-ad
+*##.ad.page-ad.ad-banner
+*###ad-fixed.ad.ad-fixed
+*##.bottom-ads-container
+*##.advertisement-holder
+*##.advertisement-wrapper
+*##.advertisement-corners
+*##.RC-AD.RC-AD-TOP-BANNER
+*##.RC-AD.RC-AD-BOX-BOTTOM
+*##.top-banner-ad-container
+*##.mm-ads-leaderboard-header
+*##.dfp-leaderboard-container
+*###leaderboard-aside-content
+*##[data-testid="ad-wrapper"]
+*##.teads:has(.third-party-ad)
+*##.single-article--publift-ad
+*##.evolve-ad-slot__leaderboard
+*##.leaderboard_atf.has-wrapper
+*##.dfp-tag-wrapper.dfp-ad-count
+*##section > #vc-maincontainer-ad
+*###topad:has(#dfp-ad-top-wrapper)
+*##.wp-block-gamurs-ad.is-video-ad
+*##.nav-subscribe-widget-container
+*##.caas-da:has(.caas-sda-adv-text)
+*##div.code-block:has(.leaderboard)
+*###mtc-primagamescom_leaderboard_atf
+*##div.code-block:has([data-ad-slot])
+*##.external\:bg-custom-ad-background
+*##div.code-block:has(#desktop-takeover)
+*##.gpt.ssr.top-slot-wrapper.fixed-slots
+*##.cta.darkb:has(.billboard_placeholder)
+*##.back_secondary.center:has(.ad-padding)
+*##.advert_container.leaderboard_container
+*##[data-testid="locked-top-ad-container"]
+*##.desktop-only.teads:has(.third-party-ad)
+*###top-ad-fragment-container.top-ad-section
+*##.sticky-banner-wrapper:has(.ad--billboard)
+*##.publive-dynamic-container.article-page-ads
+*##.vgc-productsblock.vgc-productsblock--posts
+*###right-ad-fragment-container.right-ad-section
+*##.beebom-single-content-container > .content-ad
+*##.tpd-incontent-ad-container.advertisement-label
+*##.gpt.ssr.ssr-article.top-slot-wrapper.fixed-slots
+*##.o-stack-divider.u-spacing:has(.o-ad.o-ad--footer)
+*##.hide-print.ad-no-notice:has(.ad-article-mrec-one)
+*##.publive-dynamic-container.right_bottom_ads_article
+*##.twt-content-only-hide:has(.outbrain-unit-desktop)
+*##.topbox-cls-placeholder:has(#recommendations-topbox)
+*##.stitcher-ad--dai-placeholder.ad-placement-inline--2
+*##.articleBody > [style="text-align: center;"]:has(figure.image .b-lazy)
+*##.paywall > .not-prose:has(:is(.ad-slot-wrapper [data-cy="nativoTout"]))
+*##[class*="code-block code-block-"]:has([cookie-list-type] .choose-amount)
+*##.a9d .ads-box .ads-indicator div.ad-container .adfshift .ci-ad-top-leaderboard
+*##section#vc-maincontainer > :is(#vc-maincontainer-midad:has(.google-mid-ad) #vc-maincontainer-subad:has(.google-sub-ad))
+
+
+! Related / Related Topics
+*##.more-topics__container
+
+! You may also like
+*##[data-widget-definition="xfes_similar_threads"]
+
+
+! 🦶 Footer - Global Removals
+*##.td-footer-template-wrap
+*##.u_footer
+*##.tt-footer
+*##footer#FootW
+*##footer.fp-fo
+*###apus-footer
+*##div.dw-footer
+*##footer#footer
+*##footer.footer
+*##footer.Footer
+*###article-foot
+*##body > .footer
+*##section.footer
+*##.footer-holder
+*##body > #footer
+*##nav.footer-menu
+*###footer-wrapper
+*##body > #footerc
+*##footer.v-footer
+*##.gematsu-footer
+*##.network-footer
+*##.home > #footer
+*##body > .o-footer
+*##footer.ct-footer
+*##.Layout > footer
+*###footer-sections
+*##.subscribe-footer
+*##.pmc-legal-footer
+*###globalnav-footer
+*##footer.vgc-footer
+*##footer#uhf-footer
+*##footer.app_footer
+*##footer#pageFooter
+*##footer.site-footer
+*##body #app > footer
+*##footer.footer_site
+*##footer:has(.about)
+*##body > .pre-footer
+*##footer.entry-footer
+*##body > .site-footer
+*##.duet--app > footer
+*##footer.footer-outer
+*###footer.main-footer
+*##body > div > footer
+*##div[data-t="footer"]
+*##.mv-trellis-comments
+*##footer#forums-footer
+*##footer#footer.footer
+*##aside.single-related
+*##footer:has(#rmoreabt)
+*##main article > footer
+*##.block-ibtimes-footer
+*##body .tdc-footer-wrap
+*##footer.article-footer
+*##article .post__footer
+*##devsite-footer-promos
+*##footer[id*="-footer"]
+*###site-footer-container
+*##body.wd-body > .footer
+*##section.section.footer
+*##footer:has(.copyright)
+*##[data-testid="footer"]
+*##.footer.zindex-highest
+*##article > .post-footer
+*##devsite-content-footer
+*##devsite-footer-utility
+*##[id*="sFooter_"].footer
+*###footer.container-fluid
+*##body > #en-footer-custom
+*##.hide-for-print > footer
+*###navFooter.navLeftFooter
+*###page-inner-wrap .footer
+*##devsite-footer-linkboxes
+*##.mantine-1avyp1d > footer
+*##.td-container-wrap.footer
+*###footer[data-id="footer"]
+*##.container-fluid.copyright
+*##footer[role="contentinfo"]
+*##footer:has(.global-footer)
+*##footer#footer.bg-footer-bg
+*##article > .article__footer
+*##[data-gtm-action="Footer"]
+*##footer.footer.footer--dark
+*##[data-theme="core"] footer
+*###footer:has(#footer-about)
+*##.below-footer-outlet.footer
+*##footer:has(.footer-content)
+*##footer.b-right-rail__footer
+*##body > :is(footer #Footer)
+*###main-wrapper [data-footer]
+*###overall-wrap > #wrap-footer
+*##.article_content > .footer_n
+*##footer[data-test-id="footer"]
+*##.qodef-wrapper-inner > footer
+*##[data-elementor-type="footer"]
+*##footer.footer-brand-background
+*##.home > .footer-support-payment
+*##.footer-wrap.publication-footer
+*##footer.hideOnlyFromIncomingApps
+*##footer#mainFooter.mainFooter.cf
+*##footer[data-testid="dl-footer"]
+*##.experiencefragment:has(footer)
+*##.os-content > .footer-container
+*##.footer[data-component="footer"]
+*##footer[data-testid="SiteFooter"]
+*##footer[class*="Footer_footer__"]
+*##footer:has([aria-label="Footer"])
+*##body > #wrapper > #footer_wrapper
+*##[data-fragment-name="sitefooter"]
+*##footer[data-testid="main-footer"]
+*##.adthrive-device-desktop > .footer
+*##.customcontainer:has(.footer-area)
+*##.refresh[aria-label="Global Footer"]
+*##footer.bc-footer[role="contentinfo"]
+*###gatsby-focus-wrapper > div > footer
+*##footer#mh-footer[aria-label="Footer"]
+*##.site-footer:has(footer.gb-container)
+*##footer[data-testid="footer-container"]
+*##.container.chapter-ending > #cm-widget
+*###navFooter[data-cel-widget="navFooter"]
+*##footer.l-footer.p-archiveContent__footer
+*###maincontainer .mainFooter.clearfix.size
+*###site-footer[data-testid="footer_testID"]
+*##.custom-footer-content:has(.custom-footer)
+*##[role="contentinfo"]:has(a[href*="footer"])
+*##footer.external\:bg-custom-footer-background
+*###page :is([class*="footer"] [id*="footer"])
+*##.article-grid > div:has(aside):nth-of-type(2)
+*##footer#footer.site-footer.dark-widgetized-area
+*##body :is(#page .site .site-container) > footer
+*###content_column > :is(div.semifooter div.footer)
+*##.footer[role="contentinfo"]:has(.diagnostic-wrapper)
+*##[data-hypernova-key="NavigationFooterWrapper"] footer
+*##footer.article_footer[data-component="article-footer"]
+*##.application--wrap :is(.site-description footer.footer)
+*##.n-layout__row.n-layout__row--footer:has(footer#site-footer)
+*##[data-testid="translator"] > div:not([data-layout-id="mainSectionWrapper"])
