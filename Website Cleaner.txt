@@ -251,12 +251,14 @@
 *###gatsby-focus-wrapper > div > footer
 *##footer#mh-footer[aria-label="Footer"]
 *##.site-footer:has(footer.gb-container)
+*##.responsive_page_content > div#footer
 *##footer[data-testid="footer-container"]
 *##.container.chapter-ending > #cm-widget
 *###navFooter[data-cel-widget="navFooter"]
 *##footer.l-footer.p-archiveContent__footer
 *###maincontainer .mainFooter.clearfix.size
 *###site-footer[data-testid="footer_testID"]
+*##.responsive_page_content > #footer_spacer
 *##.custom-footer-content:has(.custom-footer)
 *##[role="contentinfo"]:has(a[href*="footer"])
 *##footer.external\:bg-custom-footer-background
