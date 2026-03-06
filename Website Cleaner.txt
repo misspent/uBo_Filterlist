@@ -209,6 +209,7 @@
 *##.mantine-1avyp1d > footer
 *##.td-container-wrap.footer
 *###footer[data-id="footer"]
+*##body > #page > div#footer
 *##.container-fluid.copyright
 *##footer[role="contentinfo"]
 *##footer:has(.global-footer)
