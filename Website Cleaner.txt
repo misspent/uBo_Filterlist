@@ -249,6 +249,7 @@
 *##.refresh[aria-label="Global Footer"]
 *##footer.bc-footer[role="contentinfo"]
 *###gatsby-focus-wrapper > div > footer
+*##[data-testid="footer-main-container"]
 *##footer#mh-footer[aria-label="Footer"]
 *##.site-footer:has(footer.gb-container)
 *##.responsive_page_content > div#footer
