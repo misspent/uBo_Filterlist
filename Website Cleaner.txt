@@ -146,6 +146,7 @@
 *###article-foot
 *##body > .footer
 *##section.footer
+*##.custom-footer
 *##.footer-holder
 *##body > #footer
 *##nav.footer-menu
@@ -182,6 +183,7 @@
 *##footer#forums-footer
 *##footer#footer.footer
 *##aside.single-related
+*##.below-footer-outlet
 *##footer:has(#rmoreabt)
 *##main article > footer
 *##.block-ibtimes-footer
