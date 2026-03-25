@@ -30,6 +30,7 @@
 *##[data-component="in-body-ad"]
 *##[data-ad-type="leaderboard_atf"]
 *##[data-whitelist-status="all_ads"]
+*##[data-uses-js="dfp-top-ad-fixed"]
 *##[id*="ad-right"].block-fusion-ads
 *##[class*="id_ad_content-horiz-center"]
 *##faceplate-tracker[noun="games_drawer"]
@@ -97,6 +98,7 @@
 *###mtc-primagamescom_leaderboard_atf
 *##div.code-block:has([data-ad-slot])
 *##.external\:bg-custom-ad-background
+*##.display-card:has([class^="w-ads"])
 *##div.code-block:has(#desktop-takeover)
 *##.gpt.ssr.top-slot-wrapper.fixed-slots
 *##.cta.darkb:has(.billboard_placeholder)
@@ -130,6 +132,10 @@
 
 ! You may also like
 *##[data-widget-definition="xfes_similar_threads"]
+
+! Social bar / Social Buttons / Share Stuff
+*##.social-bar
+*##.social-bar--bottom
 
 
 ! 🦶 Footer - Global Removals
