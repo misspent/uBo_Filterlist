@@ -159,16 +159,25 @@ https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
-https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt
-https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
 https://raw.githubusercontent.com/deltabravozulu/pihole/refs/heads/main/frogeye_firstparty-trackers-hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/DeviantARTQualityArtMagnifier.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
+https://raw.githubusercontent.com/Stevoisiak/Stevos-GenAI-Blocklist/refs/heads/main/GenAI-Blocklist.txt
+https://badblock.celenity.dev/abp/fonts.txt
+https://badblock.celenity.dev/abp/badblock.txt
+https://badblock.celenity.dev/abp/badblock_lite.txt
+https://badblock.celenity.dev/abp/badblock_plus.txt
+https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/lists/domains/protoconsent_core.txt
+https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/lists/domains/protoconsent_full.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/RedditTrashRemovalService.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList-2ndDivision.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ImgurPureImageryExperience.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/WikiaPureBrowsingExperience.txt
 ```
 
 📱 **Mobile Phone lists**:
