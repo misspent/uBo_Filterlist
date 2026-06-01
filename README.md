@@ -114,7 +114,6 @@ reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_l
 https://big.oisd.nl/
 https://adaway.org/hosts.txt
 https://hosts.anudeep.me/mirror/facebook.txt
-https://www.i-dont-care-about-cookies.eu/abp
 https://badblock.celenity.dev/abp/badblock.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
