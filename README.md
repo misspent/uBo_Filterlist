@@ -127,7 +127,6 @@ https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
-ttps://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/AnnoyancesList
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
@@ -147,12 +146,10 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFi
 **Disabled filter lists**:
 ```
 https://easylist.to/easylist/easylist.txt
-https://energized.pro/ultimate/adblock.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://hosts.anudeep.me/mirror/adservers.txt
 https://easylist.to/easylist/fanboy-social.txt
 https://secure.fanboy.co.nz/fanboy-antifonts.txt
-https://tgc.cloud/downloads/archive/hosts.alive.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
