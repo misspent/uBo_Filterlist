@@ -124,7 +124,6 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.txt
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
@@ -153,7 +152,6 @@ https://secure.fanboy.co.nz/fanboy-antifonts.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
-https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
@@ -163,7 +161,6 @@ https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.t
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
-https://raw.githubusercontent.com/deltabravozulu/pihole/refs/heads/main/frogeye_firstparty-trackers-hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/DeviantARTQualityArtMagnifier.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
 https://raw.githubusercontent.com/Stevoisiak/Stevos-GenAI-Blocklist/refs/heads/main/GenAI-Blocklist.txt
