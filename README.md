@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.t
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
+https://raw.githubusercontent.com/Stevoisiak/Stevos-AI-Blocklist/refs/heads/main/GenAI-Blocklist.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/DeviantARTQualityArtMagnifier.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
 https://raw.githubusercontent.com/Stevoisiak/Stevos-GenAI-Blocklist/refs/heads/main/GenAI-Blocklist.txt
