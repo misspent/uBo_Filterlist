@@ -10,6 +10,7 @@ https://adaway.org/hosts.txt
 https://hosts.anudeep.me/mirror/facebook.txt
 https://badblock.celenity.dev/abp/badblock.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
+https://curbengh.github.io/malware-filter/phishing-filter.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
