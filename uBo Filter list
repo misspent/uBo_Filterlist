@@ -4,46 +4,28 @@
 ! Homepage: https://github.com/misspent/Random-Stuff
 
 ! 🌐 EVERYTHING Square (Global)
-##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+*##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
 
 
 ! Brave Search Engine - Cleaner
 search.brave.com###main > footer
-search.brave.com###results > #faq
-search.brave.com##.item-attributes
 search.brave.com###related-queries
 search.brave.com###search-elsewhere
-search.brave.com###rh > footer > .row
-search.brave.com##aside > div > section > footer
-search.brave.com##.product.t-secondary.desktop-small-regular
-search.brave.com###discussions footer > .row:not(.action-wrapper)
-search.brave.com###results > div:style(margin: 0 0 8px 0 !important;)
-search.brave.com##.snippet:not(.standalone) > :is(.result-cluster, .deep-links)
-search.brave.com##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
-search.brave.com##.generic-snippet:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
-search.brave.com##.inline-qa-question:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
-search.brave.com##.snippet-description:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
-search.brave.com##.snippet:not(.standalone) .title:style(-webkit-line-clamp: 1 !important; overflow: hidden; -webkit-box-orient: vertical;)
+search.brave.com##.snippet .generic-snippet
+search.brave.com##.snippet[data-type="cluster"]
+search.brave.com##*:style(border-radius: !important; text-shadow: none !important; box-shadow: none !important;)
 
 ! DuckDuckGo Cleaner
-duckduckgo.com##.react-results--main > [data-layout="news"]
-duckduckgo.com##.react-results--main > [data-layout="images"]
-duckduckgo.com##.react-results--main > [data-layout="videos"]
-duckduckgo.com##.react-results--main > [data-layout="related_searches"]
-duckduckgo.com##.react-results--main > li:has([data-react-module-id="recipes"])
-duckduckgo.com##article[data-testid="result"] > div:has([data-test-id="rich-fact"])
-duckduckgo.com##article[data-testid="result"] > div:has([style*="star-rating-star"])
-duckduckgo.com##[data-layout="organic"] > article[data-testid="result"] > div > img[src*="//external-content.duckduckgo.com/"]
-duckduckgo.com##[data-react-module-id="about"] > div > div:has([data-testid="feedback-prompt"])
-duckduckgo.com##body > .footer
-duckduckgo.com##.react-results--main > li:style(margin-bottom: 0 !important;)
-duckduckgo.com##span[style*="-webkit-line-clamp"]:style(-webkit-line-clamp: 1 !important;)
+duckduckgo.com##li[data-layout="related_searches"]
+duckduckgo.com##article[data-testid="result"] > div:has([data-result="snippet"] span b)
+duckduckgo.com##*:style(border-radius: !important; text-shadow: none !important; box-shadow: none !important;)
 
 ! APKMirror - Less scrolling
-apkmirror.com##.card-with-tabs > .tab-buttons.d-flex:has([data-action="frontend_ajax_generate_qr"])
 apkmirror.com##.tab-content > .tab-pane:has(.notes.wrapText)
-apkmirror.com##article > .listWidget:has(.appRow .table-cell):not(.p-relative)
 apkmirror.com##.container-fluid > #sidebar[role="complementary"]
+apkmirror.com##article > .listWidget:has(.appRow .table-cell):not(.p-relative)
+apkmirror.com##.card-with-tabs > .tab-buttons.d-flex:has([data-action="frontend_ajax_generate_qr"])
+apkmirror.com##*:style(border-radius: !important; text-shadow: none !important; box-shadow: none !important;)
 
 ! IMDb cleaner
 imdb.com##.ipc-title__actions
@@ -53,3 +35,4 @@ imdb.com##[data-testid="title-details-companycredits"]
 imdb.com##section.ipc-page-background.ipc-page-background--baseAlt:has(.recently-viewed)
 imdb.com##section.ipc-page-section.ipc-page-section--none.ipc-page-section--tp-none.ipc-page-section--bp-none:has(iframe[title="Episode Ratings Spotlight"])
 imdb.com##.ipc-page-grid__item > section:is([data-cel-widget="StaticFeature_RelatedInterests"], [data-cel-widget="StaticFeature_FAQ"], [data-cel-widget="StaticFeature_News"], [data-cel-widget="StaticFeature_Contribution"], [data-testid="more-from-section"], [cel_widget_id="StaticFeature_Videos"], section.ipc-page-section:has([data-testid="main-column-editorial-single"]))
+imdb.com##*:style(border-radius: !important; text-shadow: none !important; box-shadow: none !important;)
