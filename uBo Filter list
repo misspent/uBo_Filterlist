@@ -16,8 +16,8 @@ search.brave.com###search-elsewhere
 search.brave.com##.thumbnail-wrapper
 search.brave.com##.chatllm-disclaimer
 search.brave.com##.followups-wrapper
-search.brave.com##.snippet .generic-snippet
 search.brave.com##.snippet[data-type="cluster"]
+search.brave.com##.line-clamp-dynamic:style(-webkit-line-clamp: 1 !important;)
 search.brave.com##*:style(border-radius: !important; text-shadow: none !important; box-shadow: none !important;)
 
 ! DuckDuckGo Cleaner
