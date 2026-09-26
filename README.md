@@ -7,6 +7,7 @@
 ```
 https://big.oisd.nl/
 https://adaway.org/hosts.txt
+https://www.fanboy.co.nz/fanboy-agegate.txt
 https://hosts.anudeep.me/mirror/facebook.txt
 https://badblock.celenity.dev/abp/badblock.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
