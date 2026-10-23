@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt
 https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.mini.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
