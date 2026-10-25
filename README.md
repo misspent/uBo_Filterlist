@@ -51,10 +51,10 @@ https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
+https://cdn.jsdelivr.net/gh/yourduskquibbles/webannoyances/ultralist.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
-https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt
