@@ -52,6 +52,7 @@ https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://cdn.jsdelivr.net/gh/yourduskquibbles/webannoyances/ultralist.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
