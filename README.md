@@ -49,6 +49,7 @@ https://secure.fanboy.co.nz/fanboy-antifonts.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
+https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/adblock/nrd7.txt
 https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://cdn.jsdelivr.net/gh/yourduskquibbles/webannoyances/ultralist.txt
