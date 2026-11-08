@@ -52,6 +52,7 @@ https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/adblock/nrd7.txt
 https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
+https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://cdn.jsdelivr.net/gh/yourduskquibbles/webannoyances/ultralist.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
