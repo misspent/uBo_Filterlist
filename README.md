@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyanc
 https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/refs/heads/master/filters/web_annoyances.txt
